@@ -2,7 +2,7 @@
 ### How to run/start the app
 First you'll need to clone this repository.
 ```git
-git clone 
+git clone https://github.com/sai277/Lab_5_Assignment.git
 ```
 Then you need to have django installed on you machine. If not you can install django with the following command
 ``` 
